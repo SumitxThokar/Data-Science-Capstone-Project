@@ -1,5 +1,5 @@
 ![IBM](https://images.pexels.com/photos/3970330/pexels-photo-3970330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-# **Applies Data Science Capstone**
+# **Applied Data Science Capstone**
 ## About this course
 This is the final course in the IBM Data Science Professional Certificate as well as the Applied Data Science with Python Specialization. This capstone project course will give you the chance to practice the work that data scientists do in real life when working with datasets.  <br>
 In this course you will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model.
@@ -17,7 +17,8 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 In this lab, We will make a get request to the SpaceX API. We will also do some basic data wrangling and formating.<br>
 - Request to the SpaceX API
 - Clean the requested data 
-<br>
+
+
 [**Data Collection**](https://github.com/SumitxThokar/Data-Science-Capstone-Project/blob/main/Week%201/Data%20collection.ipynb)
 <br>
 
