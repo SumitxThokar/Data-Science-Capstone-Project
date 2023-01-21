@@ -14,9 +14,10 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 - Use your data analysis tools to load a dataset, clean it, and find out interesting insights from it.
 <br>
 **Collecting the data**<br>
-In this lab, We will make a get request to the SpaceX API. We will also do some basic data wrangling and formating.
+In this lab, We will make a get request to the SpaceX API. We will also do some basic data wrangling and formating.<br>
 - Request to the SpaceX API
 - Clean the requested data
+
 [**Data Collection**](https://github.com/SumitxThokar/Data-Science-Capstone-Project/blob/main/Week%201/Data%20collection.ipynb)
 <br>
 **Data Wrangling**<br>
@@ -24,4 +25,5 @@ In this lab, We will make a get request to the SpaceX API. We will also do some 
 - Perform exploratory Data Analysis and determine Training Labels
 - Exploratory Data Analysis
 - Determine Training Labels
+
 [**Data Wrangling**](https://github.com/SumitxThokar/Data-Science-Capstone-Project/blob/main/Week%201/Data%20Wrangling.ipynb)
